@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T18:27:13.573Z",
+  "generated_at": "2026-11-06T18:34:31.657Z",
   "items": {
     "problem:308": {
       "kind": "problem",
@@ -456,9 +456,9 @@
       "url": "https://www.deep-ml.com/problems/35",
       "path": "problems/0035-convert-vector-to-diagonal-matrix",
       "first_solved_at": "2026-11-06T18:27:11.164Z",
-      "last_pushed_at": "2026-11-06T18:27:11.164Z",
+      "last_pushed_at": "2026-11-06T18:34:29.695Z",
       "language": "python",
-      "lines": 9
+      "lines": 6
     }
   }
 }
