@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 31 problems · 0 labs · 12 math
+**44** solved · 32 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-11-13 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-11-05 | [solution](problems/0046-implement-precision-metric) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-02 | [solution](problems/0042-implement-relu-activation-function) |
+| [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2026-11-13 | [solution](problems/0103-implement-the-selu-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-11-05 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-11-05 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-11-05 | [solution](problems/0045-linear-kernel-function) |
