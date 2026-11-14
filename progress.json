@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:22:11.492Z",
+  "generated_at": "2026-11-14T21:24:58.684Z",
   "items": {
     "problem:308": {
       "kind": "problem",
@@ -559,6 +559,19 @@
       "path": "problems/0034-one-hot-encoding-of-nominal-values",
       "first_solved_at": "2026-11-14T04:22:10.266Z",
       "last_pushed_at": "2026-11-14T04:22:10.266Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-11-14T21:24:57.645Z",
+      "last_pushed_at": "2026-11-14T21:24:57.645Z",
       "language": "python",
       "lines": 13
     }
