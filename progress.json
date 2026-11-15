@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T19:41:19.913Z",
+  "generated_at": "2026-11-15T19:45:26.500Z",
   "items": {
     "problem:308": {
       "kind": "problem",
@@ -585,6 +585,19 @@
       "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
       "first_solved_at": "2026-11-15T19:41:18.528Z",
       "last_pushed_at": "2026-11-15T19:41:18.528Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:96": {
+      "kind": "problem",
+      "id": "96",
+      "title": "Implement the Hard Sigmoid Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/96",
+      "path": "problems/0096-implement-the-hard-sigmoid-activation-function",
+      "first_solved_at": "2026-11-15T19:45:25.065Z",
+      "last_pushed_at": "2026-11-15T19:45:25.065Z",
       "language": "python",
       "lines": 17
     }

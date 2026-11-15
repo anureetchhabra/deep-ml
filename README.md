@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 35 problems · 0 labs · 12 math
+**48** solved · 36 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-11-13 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-11-05 | [solution](problems/0046-implement-precision-metric) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-02 | [solution](problems/0042-implement-relu-activation-function) |
+| [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-11-15 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
 | [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2026-11-13 | [solution](problems/0103-implement-the-selu-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-11-05 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-11-05 | [solution](problems/0044-leaky-relu-activation-function) |
